@@ -14,16 +14,10 @@ author:
   bio: "Research Assistant at Academia Sinica. Research in AI-for-wireless, GNN beamforming."
   location: "Taipei, Taiwan"
   links:
-    - label: "CV"
-      #url: "/assets/cv/WenYuan_Ting_CV.pdf"
     - label: "Google Scholar"
-      #url: "https://scholar.google.com/..."
+      url: "https://scholar.google.com/citations?hl=zh-TW&user=hzHpf-AAAAAJ"
     - label: "GitHub"
-      #url: "https://github.com/Dennis966"
-    - label: "LinkedIn"
-      #url: "https://www.linkedin.com/in/your-link/"
-    - label: "YouTube"
-      #url: "https://youtube.com/@yourchannel"
+      url: "https://github.com/Dennis966"
 
 # Navigation bar
 collections:
